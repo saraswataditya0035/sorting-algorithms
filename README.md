@@ -1,2 +1,3 @@
 # sorting-algorithms
-This repository will conatins different ways to sort a collection.will also conatins pseudo code also as comment to work with different types of collection
+This repository will conatins different ways to sort a collection,
+In Code I have mentioned pseudocode so that you can work with different type of collections.
