@@ -9,6 +9,9 @@ namespace Test_Project
     {
         static void Main(string[] args)
         {
+            List<int> lstInt = new List<int>() { 1, 2, 3, 4 };
+            Console.WriteLine(lstInt.GetType().GetGenericArguments()[1].IsValueType);
+            Console.ReadLine();
         }
     }
 }
